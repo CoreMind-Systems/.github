@@ -110,7 +110,9 @@ Every PR automatically runs:
 
 Interested in autonomous AI development, multi-tenant SaaS architecture, or database-first security?
 
-**Production Platform:** [helix.coremindx.com](https://helix.coremindx.com)
+- 🌐 **Production Platform:** [helix.coremindx.com](https://helix.coremindx.com)
+- 📚 **Documentation:** See our repositories for detailed technical documentation
+- 💼 **Organization:** [CoreMind Systems on GitHub](https://github.com/CoreMind-Systems)
 
 ---
 
