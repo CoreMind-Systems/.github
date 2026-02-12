@@ -28,6 +28,6 @@ Modern web technologies including React, PostgreSQL, and cloud infrastructure.
 ## Links
 
 - **Production Platform:** [helix.coremindx.com](https://helix.coremindx.com)
-- **Production Website:** [.coremindx.com](https://coremindx.com)
+- **Production Website:** [coremindx.com](https://coremindx.com)
 - **Documentation:** See our repositories for technical documentation
 - **Organization:** [CoreMind Systems on GitHub](https://github.com/CoreMind-Systems)
