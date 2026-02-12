@@ -1,2 +1,2 @@
 # .github
-CoreMind Systems – Compliance Platform &amp; Digital Agency
+CoreMind Systems – Compliance Platform & Digital Agency
