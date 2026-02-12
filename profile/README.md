@@ -94,7 +94,7 @@ Every PR automatically runs:
 - ✅ Security scanning
 - ✅ Smoke tests
 
-**Auto-merge when ALL checks pass** — No human review needed for compliant changes.
+**Auto-merge enabled when ALL automated checks pass** — Quality gates ensure production readiness while maintaining the option for additional human oversight when needed.
 
 ### PostgreSQL RAG Knowledge Base
 
