@@ -55,10 +55,10 @@ Knowledge management system for development patterns:
 - **Schema v2.0 Compliance** — 100% validated, consistent structure
 - **63/63 Tests Passing** — 25 LinkIndex + 38 SkillSynthesizer tests
 
-**Performance:**
-- Skill synthesis: 30-50ms (4-7x faster than target)
-- Index build: 0.26ms (38x faster than target)
-- Keyword search: 0.002ms (500x faster than target)
+**Performance metrics:**
+- Skill synthesis — 30-50ms (4-7x faster than target)
+- Index build — 0.26ms (38x faster than target)
+- Keyword search — 0.002ms (500x faster than target)
 
 ---
 
